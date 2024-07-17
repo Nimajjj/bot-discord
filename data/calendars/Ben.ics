@@ -1,0 +1,3431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2024
+METHOD:PUBLISH
+X-CALSTART:20230828T000000Z
+X-CALEND:20241006T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - BORELLO Benjamin 24/11/2000 (5667 - Aix-en-P
+ rovence | INFO B3 IADATA) - du 28 août 2023 au 06 octobre 2024
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de BORELLO Benjamin 24/11/2000 gén
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 17 juil. 2024 - AIX YNOV CAMP
+ US - valable sur la période du 28 août 2023 au 06 octobre 2024 - Semaines 
+ : semaine 35 - 40
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20230929T132659Z
+UID:Cours-2084-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231002T113000Z
+DTEND:20231002T150000Z
+SUMMARY;LANGUAGE=fr:Welcome Days - Monsieur PHILIPIERT - Aix-en-Provence | 
+ INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Welcome Days\nIntervenant : Monsieur PHIL
+ IPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INF
+ O B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Welcome Days<br/>Intervenant : Monsi
+ eur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Pro
+ vence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20230929T132659Z
+UID:Cours-2085-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231002T063000Z
+DTEND:20231002T100000Z
+SUMMARY;LANGUAGE=fr:Welcome Days - Monsieur PHILIPIERT\, Monsieur ZERAH - A
+ ix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Welcome Days\nIntervenants : Monsieur PHI
+ LIPIERT\, Monsieur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Welcome Days<br/>Intervenants : Mons
+ ieur PHILIPIERT\, Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B
+ 3 DEV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20230921T121656Z
+UID:Cours-2088-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231003T113000Z
+DTEND:20231003T150000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20230921T121656Z
+UID:Cours-2089-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231003T063000Z
+DTEND:20231003T100000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231004T064340Z
+UID:Cours-2090-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231004T063000Z
+DTEND:20231004T100000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-C3\, AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalles : AIX-C3\, AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salles : AIX-C3\, AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231004T064340Z
+UID:Cours-2091-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231004T113000Z
+DTEND:20231004T150000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-C3\, AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalles : AIX-C3\, AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salles : AIX-C3\, AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231003T110431Z
+UID:Cours-2092-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231005T063000Z
+DTEND:20231005T100000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231005T055726Z
+UID:Cours-2093-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231005T113000Z
+DTEND:20231005T150000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1\, AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalles : AIX-T1\, AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salles : AIX-T1\, AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231003T111633Z
+UID:Cours-2094-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231006T063000Z
+DTEND:20231006T100000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT - Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PHILIPI
+ ERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B
+ 3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Proven
+ ce | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231003T111633Z
+UID:Cours-2095-6-BORELLO_Benjamin-Index-Education
+DTSTART:20231006T113000Z
+DTEND:20231006T150000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PHILIPIERT\, Monsieur ZERAH - Aix-
+ en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenants : Monsieur PHILIP
+ IERT\, Monsieur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en
+ -Provence | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenants : Monsieu
+ r PHILIPIERT\, Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 D
+ EV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240618T075148Z
+UID:Cours-2096-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240717T063000Z
+DTEND:20240717T100000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Madame MURIANA\, Monsieur PHILIPIERT - Aix-
+ en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-DIstanciel
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenants : Madame MURIANA\
+ , Monsieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en
+ -Provence | INFO B3 IADATA\nSalle : AIX-DIstanciel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenants : Madame 
+ MURIANA\, Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 D
+ EV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-DIstanciel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231025T113000Z
+DTEND:20231025T150000Z
+SUMMARY;LANGUAGE=fr:Ydays - Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence
+  | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD M
+ AST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, A
+ ix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Prove
+ nce | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA 
+ MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nPromotions : Aix-en-Provence | ANI
+ 3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\
+ , Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-P
+ rovence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | 
+ GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3
+  DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\
+ , Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Promotions : Aix-en-Proven
+ ce | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDM
+ M MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, 
+ Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Pro
+ vence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence |
+  INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B
+ 3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231115T123000Z
+DTEND:20231115T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur DABERNAT\, Monsieur LEFEVRE - Aix-en-P
+ rovence | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | 
+ COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAS
+ T2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-e
+ n-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP M
+ AST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur DABERNAT\,
+  Monsieur LEFEVRE\nPromotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Pro
+ vence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | D
+ AMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST
+ 1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST2\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur DA
+ BERNAT\, Monsieur LEFEVRE<br/>Promotions : Aix-en-Provence | ANI3D MAST2\,
+  Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-P
+ rovence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | 
+ DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST
+ 2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231206T123000Z
+DTEND:20231206T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame BRACCO\, Madame COCHE\, Monsieur GIUDICE
+ \, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur PALAZZETTI\, Monsieur
+  VERCLAYE - Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, 
+ Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence 
+ | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MA
+ ST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en
+ -Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence 
+ | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBS
+ EC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Ai
+ x-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Pro
+ vence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame BRACCO\, Mad
+ ame COCHE\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Mo
+ nsieur PALAZZETTI\, Monsieur VERCLAYE\nPromotions : Aix-en-Provence | 3DAJ
+ V B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Ai
+ x-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | 
+ COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\,
+  Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-
+ Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | 
+ INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provenc
+ e | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame BRAC
+ CO\, Madame COCHE\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILB
+ ERT\, Monsieur PALAZZETTI\, Monsieur VERCLAYE<br/>Promotions : Aix-en-Prov
+ ence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D
+  MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-
+ Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence |
+  DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST
+ 1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-
+ Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | 
+ INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3
+  INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix
+ -en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240103T123000Z
+DTEND:20240103T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame ANANIA\, Madame BRACCO\, Madame COCHE\, 
+ Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEV
+ AL\, Monsieur PALAZZETTI\, Monsieur VERCLAYE - Aix-en-Provence | 3DAJV B1 
+ A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-
+ Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDM
+ M MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-
+ en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Prove
+ nce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO 
+ B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Ai
+ x-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-
+ Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | S
+ TARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame ANANIA\, Mad
+ ame BRACCO\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsi
+ eur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI\, Monsieur VERCLAYE\n
+ Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\,
+  Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence
+  | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD M
+ AST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-e
+ n-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence
+  | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYB
+ SEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, A
+ ix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Pr
+ ovence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame ANAN
+ IA\, Madame BRACCO\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT
+ \, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI\, Monsieur VE
+ RCLAYE<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3
+ DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-
+ en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Proven
+ ce | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MA
+ ST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-
+ en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | 
+ INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3
+  IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\
+ , Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240124T123000Z
+DTEND:20240124T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieu
+ r LEFEVRE\, Monsieur MALEVAL - Aix-en-Provence | ANI3D MAST2\, Aix-en-Prov
+ ence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DA
+ MD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1
+ \, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-P
+ rovence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence
+  | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JV
+ SGA MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur GIUDICE\, 
+ Monsieur GOISBAULT\, Monsieur LEFEVRE\, Monsieur MALEVAL\nPromotions : Aix
+ -en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Proven
+ ce | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRAR
+ T MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, 
+ Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-
+ Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provenc
+ e | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STAR
+ TUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur GI
+ UDICE\, Monsieur GOISBAULT\, Monsieur LEFEVRE\, Monsieur MALEVAL<br/>Promo
+ tions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Ai
+ x-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Prove
+ nce | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DX
+ PI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSE
+ C\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix
+ -en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Prov
+ ence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240214T123000Z
+DTEND:20240214T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-en-Provence | ANI3D M
+ AST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Prove
+ nce | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAME
+ P MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur MALEVAL\, Monsieur PALAZZETTI
+ \nPromotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAS
+ T1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADAT
+ A\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-
+ en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur MALEVAL\, Monsieur PA
+ LAZZETTI<br/>Promotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence 
+ | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MA
+ ST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Ai
+ x-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Proven
+ ce | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | IN
+ FO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA M
+ AST2\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240228T123000Z
+DTEND:20240228T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GUIL
+ BERT\, Monsieur LEFEVRE\, Monsieur LONG\, Monsieur PALAZZETTI\, Monsieur V
+ ERCLAYE - Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Ai
+ x-en-Provence | 3DAJV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Provenc
+ e | 3DAJV B3 3D\, Aix-en-Provence | 3DAJV B3 GART\, Aix-en-Provence | ANI3
+ D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Prove
+ nce | AV B3 CONTCOM\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BR
+ AND MAST2\, Aix-en-Provence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MA
+ ST1\, Aix-en-Provence | CLDINFRA MAST2\, Aix-en-Provence | COMDMM MAST1\, 
+ Aix-en-Provence | COMDMM MAST2\, Aix-en-Provence | CYBSEC MAST1\, Aix-en-P
+ rovence | CYBSEC MAST2\, Aix-en-Provence | DAMD MAST1\, Aix-en-Provence | 
+ DAMD MAST2\, Aix-en-Provence | DATAEN MAST1\, Aix-en-Provence | DATAEN MAS
+ T2\, Aix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DATASCI MAST2\, A
+ ix-en-Provence | DESIG B1\, Aix-en-Provence | DESIG B2\, Aix-en-Provence |
+  DESIG B3 MOTD\, Aix-en-Provence | DESIG B3 UXI\, Aix-en-Provence | DEVLMI
+ OT MAST1\, Aix-en-Provence | DEVLMIOT MAST2\, Aix-en-Provence | DEVWEB MAS
+ T1\, Aix-en-Provence | DEVWEB MAST2\, Aix-en-Provence | DIRART MAST1\, Aix
+ -en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Prov
+ ence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST1\, Aix-en-Provence | DXP
+ I MAST2\, Aix-en-Provence | EXDEVOPS MAST1\, Aix-en-Provence | EXDEVOPS MA
+ ST2\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Provence | GAMEP MAST2\, Aix-
+ en-Provence | INFO B1\, Aix-en-Provence | INFO B2\, Aix-en-Provence | INFO
+  B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST1\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provenc
+ e | MARCOM B2\, Aix-en-Provence | MARCOM B3 COMC A\, Aix-en-Provence | MAR
+ COM B3 MARK\, Aix-en-Provence | STARTUP MAST1\, Aix-en-Provence | STARTUP 
+ MAST2
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur LONG\, Mons
+ ieur PALAZZETTI\, Monsieur VERCLAYE\nPromotions : Aix-en-Provence | 3DAJV 
+ B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B2 A\, Aix-e
+ n-Provence | 3DAJV B2 B\, Aix-en-Provence | 3DAJV B3 3D\, Aix-en-Provence 
+ | 3DAJV B3 GART\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\
+ , Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, Aix-en-Prove
+ nce | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Provence | BUSD
+ EV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Provence | CLDINFRA M
+ AST2\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, A
+ ix-en-Provence | CYBSEC MAST1\, Aix-en-Provence | CYBSEC MAST2\, Aix-en-Pr
+ ovence | DAMD MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DAT
+ AEN MAST1\, Aix-en-Provence | DATAEN MAST2\, Aix-en-Provence | DATASCI MAS
+ T1\, Aix-en-Provence | DATASCI MAST2\, Aix-en-Provence | DESIG B1\, Aix-en
+ -Provence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Provence |
+  DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVLM
+ IOT MAST2\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | DEVWEB MAST
+ 2\, Aix-en-Provence | DIRART MAST1\, Aix-en-Provence | DIRART MAST2\, Aix-
+ en-Provence | DMDATA MAST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Prove
+ nce | DXPI MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | EXDEVO
+ PS MAST1\, Aix-en-Provence | EXDEVOPS MAST2\, Aix-en-Provence | GAMEP MAST
+ 1\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Pro
+ vence | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INF
+ O B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 IN
+ FRA\, Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-
+ en-Provence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Provence | 
+ MARCOM B3 COMC A\, Aix-en-Provence | MARCOM B3 MARK\, Aix-en-Provence | ST
+ ARTUP MAST1\, Aix-en-Provence | STARTUP MAST2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur LON
+ G\, Monsieur PALAZZETTI\, Monsieur VERCLAYE<br/>Promotions : Aix-en-Proven
+ ce | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B
+ 2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | 3DAJV B3 3D\, Aix-e
+ n-Provence | 3DAJV B3 GART\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Proven
+ ce | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, A
+ ix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Prov
+ ence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Provence |
+  CLDINFRA MAST2\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | COMDM
+ M MAST2\, Aix-en-Provence | CYBSEC MAST1\, Aix-en-Provence | CYBSEC MAST2\
+ , Aix-en-Provence | DAMD MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Pro
+ vence | DATAEN MAST1\, Aix-en-Provence | DATAEN MAST2\, Aix-en-Provence | 
+ DATASCI MAST1\, Aix-en-Provence | DATASCI MAST2\, Aix-en-Provence | DESIG 
+ B1\, Aix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en
+ -Provence | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Prove
+ nce | DEVLMIOT MAST2\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | 
+ DEVWEB MAST2\, Aix-en-Provence | DIRART MAST1\, Aix-en-Provence | DIRART M
+ AST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DMDATA MAST2\, A
+ ix-en-Provence | DXPI MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Proven
+ ce | EXDEVOPS MAST1\, Aix-en-Provence | EXDEVOPS MAST2\, Aix-en-Provence |
+  GAMEP MAST1\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\,
+  Aix-en-Provence | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Pro
+ vence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence |
+  INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | JVSGA M
+ AST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-
+ Provence | MARCOM B3 COMC A\, Aix-en-Provence | MARCOM B3 MARK\, Aix-en-Pr
+ ovence | STARTUP MAST1\, Aix-en-Provence | STARTUP MAST2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240306T123000Z
+DTEND:20240306T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur
+  PALAZZETTI - Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\
+ , Aix-en-Provence | 3DAJV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Pro
+ vence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | AV B2\, 
+ Aix-en-Provence | AV B3 CONTCOM\, Aix-en-Provence | BRAND MAST1\, Aix-en-P
+ rovence | BRAND MAST2\, Aix-en-Provence | BUSDEV MAST2\, Aix-en-Provence |
+  CLDINFRA MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | COMDM
+ M MAST2\, Aix-en-Provence | CYBSEC MAST1\, Aix-en-Provence | DAMD MAST2\, 
+ Aix-en-Provence | DATAEN MAST1\, Aix-en-Provence | DATASCI MAST1\, Aix-en-
+ Provence | DESIG B1\, Aix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG
+  B3 MOTD\, Aix-en-Provence | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAS
+ T1\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | DIRART MAST2\, Aix
+ -en-Provence | DMDATA MAST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Prov
+ ence | DXPI MAST2\, Aix-en-Provence | EXDEVOPS MAST1\, Aix-en-Provence | G
+ AMEP MAST1\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, A
+ ix-en-Provence | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAS
+ T2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Pr
+ ovence | STARTUP MAST1\, Aix-en-Provence | STARTUP MAST2
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\,
+  Monsieur MALEVAL\, Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3D
+ AJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B2 A\, A
+ ix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Prove
+ nce | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, 
+ Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Pro
+ vence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Provence 
+ | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en-Provence | CYBSEC
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAEN MAST1\, A
+ ix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DESIG B1\, Aix-en-Prove
+ nce | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Provence | DESIG
+  B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVWEB MAST
+ 1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-
+ en-Provence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provenc
+ e | EXDEVOPS MAST1\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Provence | GAM
+ EP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B2\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\,
+  Aix-en-Provence | MARCOM B2\, Aix-en-Provence | STARTUP MAST1\, Aix-en-Pr
+ ovence | STARTUP MAST2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur L
+ EFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Pr
+ ovence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DA
+ JV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | ANI3D MAST2\, A
+ ix-en-Provence | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3
+  CONTCOM\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\,
+  Aix-en-Provence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-e
+ n-Provence | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en-Proven
+ ce | CYBSEC MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAE
+ N MAST1\, Aix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Prove
+ nce | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | 
+ DEVWEB MAST1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA M
+ AST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST2\, Aix
+ -en-Provence | EXDEVOPS MAST1\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Pro
+ vence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B
+ 2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | 
+ MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Provence | STARTUP MAST1\
+ , Aix-en-Provence | STARTUP MAST2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240327T123000Z
+DTEND:20240327T160000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieu
+ r GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI - A
+ ix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Proven
+ ce | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1
+ \, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-
+ Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | D
+ MDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2
+ \, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-P
+ rovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence
+  | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCO
+ M B1\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur GIUDICE\, 
+ Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEV
+ AL\, Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-
+ en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence
+  | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\
+ , Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Prove
+ nce | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DX
+ PI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix
+ -en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Pro
+ vence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence
+  | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP M
+ AST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur GI
+ UDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsie
+ ur MALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV 
+ B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-
+ en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | CO
+ MDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Pr
+ ovence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | IN
+ FO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\,
+  Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-
+ en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence 
+ | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240417T113000Z
+DTEND:20240417T150000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame BOURJAILLAT\, Madame COCHE\, Monsieur GI
+ UDICE\, Monsieur GUILBERT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-e
+ n-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence |
+  ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, A
+ ix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Prov
+ ence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDAT
+ A MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, A
+ ix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1
+ \, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame BOURJAILLAT\
+ , Madame COCHE\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur MALEVAL\,
+  Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-P
+ rovence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | A
+ V B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence 
+ | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI M
+ AST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame BOUR
+ JAILLAT\, Madame COCHE\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur M
+ ALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV B1 A
+ \, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-P
+ rovence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | ST
+ ARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240529T113000Z
+DTEND:20240529T150000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur BOURDILLON\, Madame COCHE\, Monsieur G
+ OISBAULT\, Monsieur GUILBERT\, Monsieur MALEVAL - Aix-en-Provence | 3DAJV 
+ B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-
+ en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | CO
+ MDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Pr
+ ovence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | IN
+ FO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\,
+  Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-
+ en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence 
+ | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur BOURDILLON
+ \, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur MALEVA
+ L\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 
+ B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Prove
+ nce | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAM
+ D MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Ai
+ x-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Prove
+ nce | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 
+ CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\
+ , Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en
+ -Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur BO
+ URDILLON\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieu
+ r MALEVAL<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence 
+ | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, A
+ ix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Pro
+ vence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART
+  MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, A
+ ix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence
+  | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO
+  B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAS
+ T2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240619T113000Z
+DTEND:20240619T150000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur GUILBERT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-e
+ n-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence |
+  ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, A
+ ix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Prov
+ ence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDAT
+ A MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, A
+ ix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1
+ \, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur MALEVAL\,
+  Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-P
+ rovence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | A
+ V B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence 
+ | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI M
+ AST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur M
+ ALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV B1 A
+ \, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-P
+ rovence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | ST
+ ARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2102-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240710T113000Z
+DTEND:20240710T150000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur DABERNAT\, Monsieur GIU
+ DICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL - Aix-en-Pr
+ ovence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI
+ 3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-e
+ n-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence
+  | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MA
+ ST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-e
+ n-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO 
+ B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, A
+ ix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur DABERNAT\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, 
+ Monsieur MALEVAL\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Prove
+ nce | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1
+ \, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en
+ -Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DI
+ RART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2
+ \, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Prov
+ ence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA
+  MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur DABERNAT\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LE
+ FEVRE\, Monsieur MALEVAL<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, A
+ ix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Prove
+ nce | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAS
+ T1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Pr
+ ovence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence |
+  DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, 
+ Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Prove
+ nce | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTU
+ P MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231025T063000Z
+DTEND:20231025T100000Z
+SUMMARY;LANGUAGE=fr:Ydays - Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence
+  | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD M
+ AST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, A
+ ix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Prove
+ nce | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA 
+ MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nPromotions : Aix-en-Provence | ANI
+ 3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\
+ , Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-P
+ rovence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | 
+ GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3
+  DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\
+ , Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Promotions : Aix-en-Proven
+ ce | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDM
+ M MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, 
+ Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Pro
+ vence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence |
+  INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B
+ 3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1<
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231115T073000Z
+DTEND:20231115T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur DABERNAT\, Monsieur GUITTET\, Monsieur
+  LEFEVRE - Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\,
+  Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Pr
+ ovence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence |
+  DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CY
+ BSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, 
+ Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-P
+ rovence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur DABERNAT\,
+  Monsieur GUITTET\, Monsieur LEFEVRE\nPromotions : Aix-en-Provence | ANI3D
+  MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, 
+ Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Pro
+ vence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GA
+ MEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 D
+ EV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, 
+ Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur DA
+ BERNAT\, Monsieur GUITTET\, Monsieur LEFEVRE<br/>Promotions : Aix-en-Prove
+ nce | ANI3D MAST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMD
+ MM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\,
+  Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Pr
+ ovence | GAMEP MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO 
+ B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1
+ <br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231206T073000Z
+DTEND:20231206T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame BRACCO\, Madame COCHE\, Monsieur GIUDICE
+ \, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur PALAZZETTI\, Monsieur
+  VERCLAYE - Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, 
+ Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence 
+ | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MA
+ ST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en
+ -Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence 
+ | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBS
+ EC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Ai
+ x-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Pro
+ vence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame BRACCO\, Mad
+ ame COCHE\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Mo
+ nsieur PALAZZETTI\, Monsieur VERCLAYE\nPromotions : Aix-en-Provence | 3DAJ
+ V B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Ai
+ x-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | 
+ COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\,
+  Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-
+ Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | 
+ INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provenc
+ e | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame BRAC
+ CO\, Madame COCHE\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILB
+ ERT\, Monsieur PALAZZETTI\, Monsieur VERCLAYE<br/>Promotions : Aix-en-Prov
+ ence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D
+  MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-
+ Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence |
+  DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST
+ 1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-
+ Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | 
+ INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3
+  INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix
+ -en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240103T073000Z
+DTEND:20240103T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame ANANIA\, Madame BRACCO\, Madame COCHE\, 
+ Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEV
+ AL\, Monsieur PALAZZETTI\, Monsieur VERCLAYE - Aix-en-Provence | 3DAJV B1 
+ A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-
+ Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDM
+ M MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-
+ en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Prove
+ nce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO 
+ B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Ai
+ x-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-
+ Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | S
+ TARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame ANANIA\, Mad
+ ame BRACCO\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsi
+ eur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI\, Monsieur VERCLAYE\n
+ Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\,
+  Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence
+  | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD M
+ AST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-e
+ n-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence
+  | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYB
+ SEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, A
+ ix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Pr
+ ovence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame ANAN
+ IA\, Madame BRACCO\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT
+ \, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI\, Monsieur VE
+ RCLAYE<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3
+ DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-
+ en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Proven
+ ce | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MA
+ ST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-
+ en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | 
+ INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3
+  IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\
+ , Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240124T073000Z
+DTEND:20240124T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur CLAUSE\, Monsieur GIUDICE\, Monsieur G
+ OISBAULT\, Monsieur LEFEVRE\, Monsieur MALEVAL - Aix-en-Provence | ANI3D M
+ AST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Prove
+ nce | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAME
+ P MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur CLAUSE\, M
+ onsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur LEFEVRE\, Monsieur MALEVAL
+ \nPromotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAS
+ T1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADAT
+ A\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-
+ en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur CL
+ AUSE\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur LEFEVRE\, Monsieur
+  MALEVAL<br/>Promotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence 
+ | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MA
+ ST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Ai
+ x-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Proven
+ ce | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | IN
+ FO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA M
+ AST2\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240214T073000Z
+DTEND:20240214T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-en-Provence | ANI3D M
+ AST2\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Prove
+ nce | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAME
+ P MAST2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Ai
+ x-en-Provence | JVSGA MAST2\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur MALEVAL\, Monsieur PALAZZETTI
+ \nPromotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | BRAND MAS
+ T1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADAT
+ A\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-
+ en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur MALEVAL\, Monsieur PA
+ LAZZETTI<br/>Promotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence 
+ | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MA
+ ST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Ai
+ x-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Proven
+ ce | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | IN
+ FO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA M
+ AST2\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240228T073000Z
+DTEND:20240228T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GUIL
+ BERT\, Monsieur LEFEVRE\, Monsieur PALAZZETTI\, Monsieur VERCLAYE - Aix-en
+ -Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 
+ 3DAJV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | 3DAJV B3 3D\
+ , Aix-en-Provence | 3DAJV B3 GART\, Aix-en-Provence | ANI3D MAST2\, Aix-en
+ -Provence | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3 CONT
+ COM\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-
+ en-Provence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Pro
+ vence | CLDINFRA MAST2\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence 
+ | COMDMM MAST2\, Aix-en-Provence | CYBSEC MAST1\, Aix-en-Provence | CYBSEC
+  MAST2\, Aix-en-Provence | DAMD MAST1\, Aix-en-Provence | DAMD MAST2\, Aix
+ -en-Provence | DATAEN MAST1\, Aix-en-Provence | DATAEN MAST2\, Aix-en-Prov
+ ence | DATASCI MAST1\, Aix-en-Provence | DATASCI MAST2\, Aix-en-Provence |
+  DESIG B1\, Aix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\,
+  Aix-en-Provence | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-e
+ n-Provence | DEVLMIOT MAST2\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Prov
+ ence | DEVWEB MAST2\, Aix-en-Provence | DIRART MAST1\, Aix-en-Provence | D
+ IRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DMDATA MA
+ ST2\, Aix-en-Provence | DXPI MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en
+ -Provence | EXDEVOPS MAST1\, Aix-en-Provence | EXDEVOPS MAST2\, Aix-en-Pro
+ vence | GAMEP MAST1\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | IN
+ FO B1\, Aix-en-Provence | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix
+ -en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Pro
+ vence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | 
+ JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, 
+ Aix-en-Provence | MARCOM B3 COMC A\, Aix-en-Provence | MARCOM B3 MARK\, Ai
+ x-en-Provence | STARTUP MAST1\, Aix-en-Provence | STARTUP MAST2
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur PALAZZETTI\
+ , Monsieur VERCLAYE\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Pr
+ ovence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B2 A\, Aix-en-Provence | 3DA
+ JV B2 B\, Aix-en-Provence | 3DAJV B3 3D\, Aix-en-Provence | 3DAJV B3 GART\
+ , Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provenc
+ e | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, Aix-en-Provence | BRAND MAST
+ 1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Provence | BUSDEV MAST2\, Aix-e
+ n-Provence | CLDINFRA MAST1\, Aix-en-Provence | CLDINFRA MAST2\, Aix-en-Pr
+ ovence | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en-Provence |
+  CYBSEC MAST1\, Aix-en-Provence | CYBSEC MAST2\, Aix-en-Provence | DAMD MA
+ ST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAEN MAST1\, Aix-
+ en-Provence | DATAEN MAST2\, Aix-en-Provence | DATASCI MAST1\, Aix-en-Prov
+ ence | DATASCI MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DESI
+ G B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Provence | DESIG B3 UXI\, 
+ Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVLMIOT MAST2\, Aix-
+ en-Provence | DEVWEB MAST1\, Aix-en-Provence | DEVWEB MAST2\, Aix-en-Prove
+ nce | DIRART MAST1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DM
+ DATA MAST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST1
+ \, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | EXDEVOPS MAST1\, Aix-e
+ n-Provence | EXDEVOPS MAST2\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Prove
+ nce | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B2\
+ , Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-e
+ n-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Pro
+ vence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MA
+ RCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Provence | MARCOM B3 COMC A
+ \, Aix-en-Provence | MARCOM B3 MARK\, Aix-en-Provence | STARTUP MAST1\, Ai
+ x-en-Provence | STARTUP MAST2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur PAL
+ AZZETTI\, Monsieur VERCLAYE<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\
+ , Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B2 A\, Aix-en-Pro
+ vence | 3DAJV B2 B\, Aix-en-Provence | 3DAJV B3 3D\, Aix-en-Provence | 3DA
+ JV B3 GART\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix
+ -en-Provence | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, Aix-en-Provence |
+  BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Provence | BUSDEV MA
+ ST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Provence | CLDINFRA MAST2\
+ , Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en
+ -Provence | CYBSEC MAST1\, Aix-en-Provence | CYBSEC MAST2\, Aix-en-Provenc
+ e | DAMD MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAEN M
+ AST1\, Aix-en-Provence | DATAEN MAST2\, Aix-en-Provence | DATASCI MAST1\, 
+ Aix-en-Provence | DATASCI MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Prov
+ ence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Provence | DESI
+ G B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVLMIOT M
+ AST2\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | DEVWEB MAST2\, A
+ ix-en-Provence | DIRART MAST1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Pr
+ ovence | DMDATA MAST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Provence |
+  DXPI MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | EXDEVOPS MA
+ ST1\, Aix-en-Provence | EXDEVOPS MAST2\, Aix-en-Provence | GAMEP MAST1\, A
+ ix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence
+  | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\,
+  Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Pr
+ ovence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Provence | MARCO
+ M B3 COMC A\, Aix-en-Provence | MARCOM B3 MARK\, Aix-en-Provence | STARTUP
+  MAST1\, Aix-en-Provence | STARTUP MAST2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240306T073000Z
+DTEND:20240306T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur
+  PALAZZETTI - Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\
+ , Aix-en-Provence | 3DAJV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Pro
+ vence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | AV B2\, 
+ Aix-en-Provence | AV B3 CONTCOM\, Aix-en-Provence | BRAND MAST1\, Aix-en-P
+ rovence | BRAND MAST2\, Aix-en-Provence | BUSDEV MAST2\, Aix-en-Provence |
+  CLDINFRA MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | COMDM
+ M MAST2\, Aix-en-Provence | CYBSEC MAST1\, Aix-en-Provence | DAMD MAST2\, 
+ Aix-en-Provence | DATAEN MAST1\, Aix-en-Provence | DATASCI MAST1\, Aix-en-
+ Provence | DESIG B1\, Aix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG
+  B3 MOTD\, Aix-en-Provence | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAS
+ T1\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | DIRART MAST2\, Aix
+ -en-Provence | DMDATA MAST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Prov
+ ence | DXPI MAST2\, Aix-en-Provence | EXDEVOPS MAST1\, Aix-en-Provence | G
+ AMEP MAST1\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, A
+ ix-en-Provence | INFO B2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAS
+ T2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Pr
+ ovence | STARTUP MAST1\, Aix-en-Provence | STARTUP MAST2
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\,
+  Monsieur MALEVAL\, Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3D
+ AJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DAJV B2 A\, A
+ ix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Prove
+ nce | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3 CONTCOM\, 
+ Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\, Aix-en-Pro
+ vence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-en-Provence 
+ | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en-Provence | CYBSEC
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAEN MAST1\, A
+ ix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DESIG B1\, Aix-en-Prove
+ nce | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Provence | DESIG
+  B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVWEB MAST
+ 1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-
+ en-Provence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provenc
+ e | EXDEVOPS MAST1\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Provence | GAM
+ EP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B2\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\,
+  Aix-en-Provence | MARCOM B2\, Aix-en-Provence | STARTUP MAST1\, Aix-en-Pr
+ ovence | STARTUP MAST2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur L
+ EFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Pr
+ ovence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | 3DA
+ JV B2 A\, Aix-en-Provence | 3DAJV B2 B\, Aix-en-Provence | ANI3D MAST2\, A
+ ix-en-Provence | AV B1\, Aix-en-Provence | AV B2\, Aix-en-Provence | AV B3
+  CONTCOM\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | BRAND MAST2\,
+  Aix-en-Provence | BUSDEV MAST2\, Aix-en-Provence | CLDINFRA MAST1\, Aix-e
+ n-Provence | COMDMM MAST1\, Aix-en-Provence | COMDMM MAST2\, Aix-en-Proven
+ ce | CYBSEC MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DATAE
+ N MAST1\, Aix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DESIG B2\, Aix-en-Provence | DESIG B3 MOTD\, Aix-en-Prove
+ nce | DESIG B3 UXI\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | 
+ DEVWEB MAST1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA M
+ AST1\, Aix-en-Provence | DMDATA MAST2\, Aix-en-Provence | DXPI MAST2\, Aix
+ -en-Provence | EXDEVOPS MAST1\, Aix-en-Provence | GAMEP MAST1\, Aix-en-Pro
+ vence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B
+ 2\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST1\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | 
+ MARCOM B1\, Aix-en-Provence | MARCOM B2\, Aix-en-Provence | STARTUP MAST1\
+ , Aix-en-Provence | STARTUP MAST2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240327T073000Z
+DTEND:20240327T110000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieu
+ r GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL\, Monsieur PALAZZETTI - A
+ ix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Proven
+ ce | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1
+ \, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-
+ Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | D
+ MDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2
+ \, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-P
+ rovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence
+  | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCO
+ M B1\, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur GIUDICE\, 
+ Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEV
+ AL\, Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-
+ en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence
+  | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\
+ , Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Prove
+ nce | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DX
+ PI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix
+ -en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Pro
+ vence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence
+  | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP M
+ AST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur GI
+ UDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsie
+ ur MALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV 
+ B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-
+ en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | CO
+ MDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Pr
+ ovence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | IN
+ FO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\,
+  Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-
+ en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence 
+ | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240417T063000Z
+DTEND:20240417T100000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame BOURJAILLAT\, Madame COCHE\, Monsieur GI
+ UDICE\, Monsieur GUILBERT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-e
+ n-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence |
+  ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, A
+ ix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Prov
+ ence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDAT
+ A MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, A
+ ix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1
+ \, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame BOURJAILLAT\
+ , Madame COCHE\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur MALEVAL\,
+  Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-P
+ rovence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | A
+ V B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence 
+ | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI M
+ AST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame BOUR
+ JAILLAT\, Madame COCHE\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur M
+ ALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV B1 A
+ \, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-P
+ rovence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | ST
+ ARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240529T063000Z
+DTEND:20240529T100000Z
+SUMMARY;LANGUAGE=fr:Ydays - Monsieur BOURDILLON\, Madame COCHE\, Monsieur G
+ OISBAULT\, Monsieur GUILBERT\, Monsieur MALEVAL - Aix-en-Provence | 3DAJV 
+ B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-
+ en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | CO
+ MDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, A
+ ix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Pr
+ ovence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | IN
+ FO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\,
+  Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-
+ en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence 
+ | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Monsieur BOURDILLON
+ \, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur MALEVA
+ L\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 
+ B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Prove
+ nce | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAM
+ D MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Ai
+ x-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Prove
+ nce | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 
+ CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\
+ , Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en
+ -Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Monsieur BO
+ URDILLON\, Madame COCHE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieu
+ r MALEVAL<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Provence 
+ | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1\, A
+ ix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en-Pro
+ vence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DIRART
+  MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2\, A
+ ix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Provence
+  | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO
+  B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA MAS
+ T2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240619T063000Z
+DTEND:20240619T100000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur GIUDICE\, Monsieur GOIS
+ BAULT\, Monsieur GUILBERT\, Monsieur MALEVAL\, Monsieur PALAZZETTI - Aix-e
+ n-Provence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence |
+  ANI3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, A
+ ix-en-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Prov
+ ence | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDAT
+ A MAST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, A
+ ix-en-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | I
+ NFO B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1
+ \, Aix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur MALEVAL\,
+  Monsieur PALAZZETTI\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-P
+ rovence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | A
+ V B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Ai
+ x-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence 
+ | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI M
+ AST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-
+ Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | J
+ VSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur GIUDICE\, Monsieur GOISBAULT\, Monsieur GUILBERT\, Monsieur M
+ ALEVAL\, Monsieur PALAZZETTI<br/>Promotions : Aix-en-Provence | 3DAJV B1 A
+ \, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-P
+ rovence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM
+  MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-e
+ n-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Proven
+ ce | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B
+ 1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix
+ -en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-P
+ rovence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | ST
+ ARTUP MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240701T140227Z
+UID:Cours-2103-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240710T063000Z
+DTEND:20240710T100000Z
+SUMMARY;LANGUAGE=fr:Ydays - Madame COCHE\, Monsieur DABERNAT\, Monsieur GIU
+ DICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, Monsieur MALEVAL - Aix-en-Pr
+ ovence | 3DAJV B1 A\, Aix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI
+ 3D MAST2\, Aix-en-Provence | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-e
+ n-Provence | COMDMM MAST1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence
+  | DESIG B1\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MA
+ ST1\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-e
+ n-Provence | INFO B1\, Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | INFO 
+ B3 INFRA\, Aix-en-Provence | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, A
+ ix-en-Provence | STARTUP MAST1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays\nIntervenants : Madame COCHE\, Mons
+ ieur DABERNAT\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LEFEVRE\, 
+ Monsieur MALEVAL\nPromotions : Aix-en-Provence | 3DAJV B1 A\, Aix-en-Prove
+ nce | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | AV B1
+ \, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAST1\, Aix-en
+ -Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Provence | DI
+ RART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | DXPI MAST2
+ \, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, Aix-en-Prov
+ ence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Provence | JVSGA
+  MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTUP MAST1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays<br/>Intervenants : Madame COCH
+ E\, Monsieur DABERNAT\, Monsieur GIUDICE\, Monsieur GUILBERT\, Monsieur LE
+ FEVRE\, Monsieur MALEVAL<br/>Promotions : Aix-en-Provence | 3DAJV B1 A\, A
+ ix-en-Provence | 3DAJV B1 B\, Aix-en-Provence | ANI3D MAST2\, Aix-en-Prove
+ nce | AV B1\, Aix-en-Provence | BRAND MAST1\, Aix-en-Provence | COMDMM MAS
+ T1\, Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DESIG B1\, Aix-en-Pr
+ ovence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence |
+  DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B1\, 
+ Aix-en-Provence | INFO B3 CYBSEC\, Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA\, Aix-en-Provence | INFO B3 INFRA\, Aix-en-Prove
+ nce | JVSGA MAST2\, Aix-en-Provence | MARCOM B1\, Aix-en-Provence | STARTU
+ P MAST1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240618T075148Z
+UID:Cours-2133-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240717T113000Z
+DTEND:20240717T150000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Madame MURIANA\, Monsieur PHILIPIERT - Aix-
+ en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-DIstanciel
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenants : Madame MURIANA\
+ , Monsieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en
+ -Provence | INFO B3 IADATA\nSalle : AIX-DIstanciel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenants : Madame 
+ MURIANA\, Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 D
+ EV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-DIstanciel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240116T075734Z
+UID:Cours-2148-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240307T123000Z
+DTEND:20240307T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-C1\, AIX-C4
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalles : AIX-C1\, AIX-C4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salles : AIX-C1\, AIX-C4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231220T093317Z
+UID:Cours-2150-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240122T123000Z
+DTEND:20240122T160000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240223T094005Z
+UID:Cours-2154-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240226T123000Z
+DTEND:20240226T160000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ANANIA - Aix-en-Provence | CLDINFRA MA
+ ST2\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ANANIA\nPro
+ motions : Aix-en-Provence | CLDINFRA MAST2\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ANA
+ NIA<br/>Promotions : Aix-en-Provence | CLDINFRA MAST2\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240325T132923Z
+UID:Cours-2168-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240328T123000Z
+DTEND:20240328T160000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240307T073000Z
+DTEND:20240307T110000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI\, Monsieur PHI
+ LIPIERT - Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 06
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenants : Mon
+ sieur CAMPINI\, Monsieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B
+ 3 DEV\, Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Distanciel 06\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ ts : Monsieur CAMPINI\, Monsieur PHILIPIERT<br/>Promotions : Aix-en-Proven
+ ce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distan
+ ciel 06<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240328T073000Z
+DTEND:20240328T110000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 03
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence
+  | INFO B3 IADATA\nSalle : AIX-Distanciel 03\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-
+ en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 03<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240418T063000Z
+DTEND:20240418T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence
+  | INFO B3 IADATA\nSalle : AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-
+ en-Provence | INFO B3 IADATA<br/>Salle : AIX-A6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240530T063000Z
+DTEND:20240530T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence
+  | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-
+ en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240620T063000Z
+DTEND:20240620T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T075131Z
+UID:Cours-2169-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240711T063000Z
+DTEND:20240711T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240717T151507Z
+UID:Cours-2170-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240418T113000Z
+DTEND:20240418T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI\, Monsieur PHI
+ LIPIERT - Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenants : Mon
+ sieur CAMPINI\, Monsieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B
+ 3 DEV\, Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ ts : Monsieur CAMPINI\, Monsieur PHILIPIERT<br/>Promotions : Aix-en-Proven
+ ce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-A6<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240717T151507Z
+UID:Cours-2170-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240530T113000Z
+DTEND:20240530T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240717T151507Z
+UID:Cours-2170-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240620T113000Z
+DTEND:20240620T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240717T151507Z
+UID:Cours-2170-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240711T113000Z
+DTEND:20240711T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI\, Monsieur PHI
+ LIPIERT - Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenants : Mon
+ sieur CAMPINI\, Monsieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B
+ 3 DEV\, Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ ts : Monsieur CAMPINI\, Monsieur PHILIPIERT<br/>Promotions : Aix-en-Proven
+ ce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240717T151507Z
+UID:Cours-2170-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240718T113000Z
+DTEND:20240718T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T2
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240209T152513Z
+UID:Cours-2171-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240308T073000Z
+DTEND:20240308T110000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 06
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-Distanciel 06\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 06<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240212T095136Z
+UID:Cours-2177-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240213T073000Z
+DTEND:20240213T110000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-L2 Annexe
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-L
+ 2 Annexe\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-L2 Annexe<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231207T072441Z
+UID:Cours-2178-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231207T123000Z
+DTEND:20231207T160000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T132037Z
+UID:Cours-2179-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240212T123000Z
+DTEND:20240212T160000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T
+ 4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231025T132427Z
+UID:Cours-2180-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240102T123000Z
+DTEND:20240102T160000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231115T155147Z
+UID:Cours-2183-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240229T073000Z
+DTEND:20240229T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Monsieur HEIDUK - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mon
+ sieur HEIDUK\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Di
+ stanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Monsieur HEIDUK<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231023T155622Z
+UID:Cours-2184-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240226T073000Z
+DTEND:20240226T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Monsieur HEIDUK - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mon
+ sieur HEIDUK\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Di
+ stanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Monsieur HEIDUK<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240301T081150Z
+UID:Cours-2185-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240308T123000Z
+DTEND:20240308T160000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240223T094050Z
+UID:Cours-4570-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240227T123000Z
+DTEND:20240227T160000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame POURCHIER - Aix-en-Provence | DATASCI 
+ MAST1\, Aix-en-Provence | DEVLMIOT MAST1\, Aix-en-Provence | DEVWEB MAST1\
+ , Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 09
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame POURCHIER\n
+ Promotions : Aix-en-Provence | DATASCI MAST1\, Aix-en-Provence | DEVLMIOT 
+ MAST1\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA\nSalle : AIX-Distanciel 09\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame POU
+ RCHIER<br/>Promotions : Aix-en-Provence | DATASCI MAST1\, Aix-en-Provence 
+ | DEVLMIOT MAST1\, Aix-en-Provence | DEVWEB MAST1\, Aix-en-Provence | INFO
+  B3 DEV\, Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 09<b
+ r/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T142737Z
+UID:Cours-6234-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240325T073000Z
+DTEND:20240325T110000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T142737Z
+UID:Cours-6234-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240415T063000Z
+DTEND:20240415T100000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-T1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T142737Z
+UID:Cours-6234-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240527T063000Z
+DTEND:20240527T100000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240517T091025Z
+UID:Cours-6236-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240618T063000Z
+DTEND:20240618T100000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T143031Z
+UID:Cours-6237-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240528T063000Z
+DTEND:20240528T100000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T130032Z
+UID:Cours-6238-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240304T123000Z
+DTEND:20240304T160000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T130032Z
+UID:Cours-6238-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240506T113000Z
+DTEND:20240506T150000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-A6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T133545Z
+UID:Cours-6247-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231027T063000Z
+DTEND:20231027T100000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T133545Z
+UID:Cours-6247-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231117T073000Z
+DTEND:20231117T110000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A8
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 8\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A8<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T133545Z
+UID:Cours-6247-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231208T073000Z
+DTEND:20231208T110000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T
+ 4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T133545Z
+UID:Cours-6247-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240126T073000Z
+DTEND:20240126T110000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A7
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 7\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A7<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T133545Z
+UID:Cours-6247-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240216T073000Z
+DTEND:20240216T110000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T
+ 4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240301T081002Z
+UID:Cours-6758-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240301T073000Z
+DTEND:20240301T110000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ANANIA - Aix-en-Provence | DAMD MAST1\
+ , Aix-en-Provence | DIRART MAST1\, Aix-en-Provence | DXPI MAST1\, Aix-en-P
+ rovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ANANIA\nPro
+ motions : Aix-en-Provence | DAMD MAST1\, Aix-en-Provence | DIRART MAST1\, 
+ Aix-en-Provence | DXPI MAST1\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Prov
+ ence | INFO B3 IADATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ANA
+ NIA<br/>Promotions : Aix-en-Provence | DAMD MAST1\, Aix-en-Provence | DIRA
+ RT MAST1\, Aix-en-Provence | DXPI MAST1\, Aix-en-Provence | INFO B3 DEV\, 
+ Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240617T124925Z
+UID:Cours-7272-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240621T063000Z
+DTEND:20240621T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T100753Z
+UID:Cours-7273-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240416T063000Z
+DTEND:20240416T100000Z
+SUMMARY;LANGUAGE=fr:Prise parole en public - Monsieur BUI - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Prise parole en public\nIntervenant : Mon
+ sieur BUI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise parole en public<br/>Intervena
+ nt : Monsieur BUI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240131T134500Z
+UID:Cours-7276-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240229T123000Z
+DTEND:20240229T160000Z
+SUMMARY;LANGUAGE=fr:Prise parole en public - Monsieur BUI - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A5
+DESCRIPTION;LANGUAGE=fr:Matière : Prise parole en public\nIntervenant : Mon
+ sieur BUI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-A5\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise parole en public<br/>Intervena
+ nt : Monsieur BUI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-A5<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T134643Z
+UID:Cours-7285-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240125T123000Z
+DTEND:20240125T160000Z
+SUMMARY;LANGUAGE=fr:Prise parole en public - Monsieur BUI - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Prise parole en public\nIntervenant : Mon
+ sieur BUI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise parole en public<br/>Intervena
+ nt : Monsieur BUI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T134643Z
+UID:Cours-7285-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240215T123000Z
+DTEND:20240215T160000Z
+SUMMARY;LANGUAGE=fr:Prise parole en public - Monsieur BUI - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Prise parole en public\nIntervenant : Mon
+ sieur BUI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise parole en public<br/>Intervena
+ nt : Monsieur BUI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240506T091255Z
+UID:Cours-7612-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240507T113000Z
+DTEND:20240507T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 05
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-Distanciel 05\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 05<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240617T132240Z
+UID:Cours-7613-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240716T063000Z
+DTEND:20240716T100000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ASCIONE - Aix-en-Provence | INFO B3 DE
+ V\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ASCIONE\nPr
+ omotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADAT
+ A\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ASC
+ IONE<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | IN
+ FO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132619Z
+UID:Cours-8006-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231205T123000Z
+DTEND:20231205T160000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T095627Z
+UID:Cours-8007-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231116T073000Z
+DTEND:20231116T110000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T095627Z
+UID:Cours-8007-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240104T073000Z
+DTEND:20240104T110000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132615Z
+UID:Cours-8008-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231205T073000Z
+DTEND:20231205T110000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T095627Z
+UID:Cours-8009-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231116T123000Z
+DTEND:20231116T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T095627Z
+UID:Cours-8009-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240104T123000Z
+DTEND:20240104T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231220T093317Z
+UID:Cours-8019-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231023T063000Z
+DTEND:20231023T100000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231220T093317Z
+UID:Cours-8019-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231113T073000Z
+DTEND:20231113T110000Z
+SUMMARY;LANGUAGE=fr:DevOps - Madame POURCHIER - Aix-en-Provence | INFO B3 D
+ EV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 05
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Madame POURCHIER\nP
+ romotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADA
+ TA\nSalle : AIX-Distanciel 05\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Madame POUR
+ CHIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA<br/>Salle : AIX-Distanciel 05<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231220T093317Z
+UID:Cours-8019-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231204T073000Z
+DTEND:20231204T110000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A8
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-A8\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-A8<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231220T093317Z
+UID:Cours-8019-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240122T073000Z
+DTEND:20240122T110000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231219T130341Z
+UID:Cours-8020-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240105T123000Z
+DTEND:20240105T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-A6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8044-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240329T073000Z
+DTEND:20240329T110000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8044-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240419T063000Z
+DTEND:20240419T100000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8044-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240510T063000Z
+DTEND:20240510T100000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8044-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240531T063000Z
+DTEND:20240531T100000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240617T124803Z
+UID:Cours-8046-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240712T113000Z
+DTEND:20240712T150000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ANANIA - Aix-en-Provence | INFO B3 IAD
+ ATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ANANIA\nPro
+ motion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ANA
+ NIA<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Dista
+ nciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8050-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240301T123000Z
+DTEND:20240301T160000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 03
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 03\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 03<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8050-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240419T113000Z
+DTEND:20240419T150000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8050-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240510T113000Z
+DTEND:20240510T150000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231120T074354Z
+UID:Cours-8050-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240531T113000Z
+DTEND:20240531T150000Z
+SUMMARY;LANGUAGE=fr:NoSQL - Monsieur CHAUSSIER - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : NoSQL\nIntervenant : Monsieur CHAUSSIER\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : NoSQL<br/>Intervenant : Monsieur CHA
+ USSIER<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231019T130545Z
+UID:Cours-8094-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231023T113000Z
+DTEND:20231023T150000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ANANIA - Aix-en-Provence | INFO B3 DEV
+ \, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-DIstanciel\, AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ANANIA\nPro
+ motions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+ \nSalles : AIX-DIstanciel\, AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ANA
+ NIA<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INF
+ O B3 IADATA<br/>Salles : AIX-DIstanciel\, AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231110T144445Z
+UID:Cours-8095-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231113T123000Z
+DTEND:20231113T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231110T144445Z
+UID:Cours-8095-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231204T123000Z
+DTEND:20231204T160000Z
+SUMMARY;LANGUAGE=fr:Administration BDD - Monsieur FAESSEL - Aix-en-Provence
+  | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Administration BDD\nIntervenant : Monsieu
+ r FAESSEL\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Administration BDD<br/>Intervenant :
+  Monsieur FAESSEL<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-
+ Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240214T150715Z
+UID:Cours-8223-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231027T113000Z
+DTEND:20231027T150000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240214T150715Z
+UID:Cours-8223-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231117T123000Z
+DTEND:20231117T160000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-T3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240214T150715Z
+UID:Cours-8223-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231208T123000Z
+DTEND:20231208T160000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240214T150715Z
+UID:Cours-8223-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240126T123000Z
+DTEND:20240126T160000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240214T150715Z
+UID:Cours-8223-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240216T123000Z
+DTEND:20240216T160000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 05
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-Distanciel 05\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 05<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240129T131345Z
+UID:Cours-8224-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240212T073000Z
+DTEND:20240212T110000Z
+SUMMARY;LANGUAGE=fr:Management d'équipe - Monsieur ZERAH - Aix-en-Provence 
+ | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Management d'équipe\nIntervenant : Monsie
+ ur ZERAH\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | I
+ NFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Management d'équipe<br/>Intervenant 
+ : Monsieur ZERAH<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-P
+ rovence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240416T095843Z
+UID:Cours-8344-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240712T063000Z
+DTEND:20240712T100000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame ANANIA - Aix-en-Provence | INFO B3 IAD
+ ATA
+LOCATION;LANGUAGE=fr:AIX-DIstanciel
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame ANANIA\nPro
+ motion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-DIstanciel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame ANA
+ NIA<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-DIsta
+ nciel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240325T123000Z
+DTEND:20240325T160000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240415T113000Z
+DTEND:20240415T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-T1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240527T113000Z
+DTEND:20240527T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240617T113000Z
+DTEND:20240617T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-T1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240708T113000Z
+DTEND:20240708T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240702T055706Z
+UID:Cours-8430-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240715T113000Z
+DTEND:20240715T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-T4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083146Z
+UID:Cours-8431-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240718T063000Z
+DTEND:20240718T100000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240617T153258Z
+UID:Cours-8433-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240618T113000Z
+DTEND:20240618T150000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T101522Z
+UID:Cours-8435-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240326T123000Z
+DTEND:20240326T160000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A7
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A7\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A7<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240402T101522Z
+UID:Cours-8435-34-BORELLO_Benjamin-Index-Education
+DTSTART:20240416T113000Z
+DTEND:20240416T150000Z
+SUMMARY;LANGUAGE=fr:Machine Learning - Initiation - Monsieur ROCHET - Aix-e
+ n-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Machine Learning - Initiation\nIntervenan
+ t : Monsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle :
+  AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Machine Learning - Initiation<br/>In
+ tervenant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADA
+ TA<br/>Salle : AIX-A6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231031T092148Z
+UID:Cours-9132-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240215T073000Z
+DTEND:20240215T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240118T105455Z
+UID:Cours-9251-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231026T063000Z
+DTEND:20231026T100000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 09
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 09\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 09<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240118T105455Z
+UID:Cours-9251-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240125T073000Z
+DTEND:20240125T110000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T131920Z
+UID:Cours-9252-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231026T113000Z
+DTEND:20231026T150000Z
+SUMMARY;LANGUAGE=fr:DevOps - Monsieur TAKOUKAM - Aix-en-Provence | INFO B3 
+ DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 09
+DESCRIPTION;LANGUAGE=fr:Matière : DevOps\nIntervenant : Monsieur TAKOUKAM\n
+ Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IAD
+ ATA\nSalle : AIX-Distanciel 09\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : DevOps<br/>Intervenant : Monsieur TA
+ KOUKAM<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | 
+ INFO B3 IADATA<br/>Salle : AIX-Distanciel 09<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240212T095148Z
+UID:Cours-9253-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231024T113000Z
+DTEND:20231024T150000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T3
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T
+ 3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-T3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240212T095148Z
+UID:Cours-9253-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231114T123000Z
+DTEND:20231114T160000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A3
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 3\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A3<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240212T095148Z
+UID:Cours-9253-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240123T123000Z
+DTEND:20240123T160000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A7
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A
+ 7\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-A7<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240212T095148Z
+UID:Cours-9253-25-BORELLO_Benjamin-Index-Education
+DTSTART:20240213T123000Z
+DTEND:20240213T160000Z
+SUMMARY;LANGUAGE=fr:Maths DataScience niv.1 - Monsieur ROCHET - Aix-en-Prov
+ ence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-L2 Annexe
+DESCRIPTION;LANGUAGE=fr:Matière : Maths DataScience niv.1\nIntervenant : Mo
+ nsieur ROCHET\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-L
+ 2 Annexe\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Maths DataScience niv.1<br/>Interven
+ ant : Monsieur ROCHET<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/
+ >Salle : AIX-L2 Annexe<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132051Z
+UID:Cours-9255-9-BORELLO_Benjamin-Index-Education
+DTSTART:20231024T063000Z
+DTEND:20231024T100000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132051Z
+UID:Cours-9255-12-BORELLO_Benjamin-Index-Education
+DTSTART:20231114T073000Z
+DTEND:20231114T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132051Z
+UID:Cours-9255-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240102T073000Z
+DTEND:20240102T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Monsieur HEIDUK - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mon
+ sieur HEIDUK\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Di
+ stanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Monsieur HEIDUK<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132051Z
+UID:Cours-9255-22-BORELLO_Benjamin-Index-Education
+DTSTART:20240123T073000Z
+DTEND:20240123T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Monsieur HEIDUK - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mon
+ sieur HEIDUK\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Di
+ stanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Monsieur HEIDUK<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231114T132051Z
+UID:Cours-9255-27-BORELLO_Benjamin-Index-Education
+DTSTART:20240227T073000Z
+DTEND:20240227T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20231204T143245Z
+UID:Cours-9398-15-BORELLO_Benjamin-Index-Education
+DTSTART:20231207T073000Z
+DTEND:20231207T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Monsieur HEIDUK - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 14
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mon
+ sieur HEIDUK\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Di
+ stanciel 14\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Monsieur HEIDUK<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-Distanciel 14<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T053325Z
+UID:Cours-9681-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240305T073000Z
+DTEND:20240305T110000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T1
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>
+ Salle : AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T053325Z
+UID:Cours-9681-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240326T073000Z
+DTEND:20240326T110000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T2
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-T2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-T2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T053325Z
+UID:Cours-9681-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240507T063000Z
+DTEND:20240507T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur PHILIPIERT - Aix-en-Pr
+ ovence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 05
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur PHILIPIERT\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Prove
+ nce | INFO B3 IADATA\nSalle : AIX-Distanciel 05\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur PHILIPIERT<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, A
+ ix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 05<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240709T053325Z
+UID:Cours-9681-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240709T063000Z
+DTEND:20240709T100000Z
+SUMMARY;LANGUAGE=fr:Suivi projet spé Info - Monsieur CAMPINI - Aix-en-Prove
+ nce | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 03
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi projet spé Info\nIntervenant : Mons
+ ieur CAMPINI\nPromotions : Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence
+  | INFO B3 IADATA\nSalle : AIX-Distanciel 03\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi projet spé Info<br/>Intervenan
+ t : Monsieur CAMPINI<br/>Promotions : Aix-en-Provence | INFO B3 DEV\, Aix-
+ en-Provence | INFO B3 IADATA<br/>Salle : AIX-Distanciel 03<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240715T103006Z
+UID:Cours-9682-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240305T123000Z
+DTEND:20240305T160000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240715T103006Z
+UID:Cours-9682-40-BORELLO_Benjamin-Index-Education
+DTSTART:20240528T113000Z
+DTEND:20240528T150000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A4
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-A4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240715T103006Z
+UID:Cours-9682-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240709T113000Z
+DTEND:20240709T150000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 05
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Distanciel
+  05\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-Distanciel 05<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240715T103006Z
+UID:Cours-9682-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240716T113000Z
+DTEND:20240716T150000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A2
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A2\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-A2<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240515T120528Z
+UID:Cours-9942-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240621T113000Z
+DTEND:20240621T150000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame SEYMAN - Aix-en-Provence | DAMD MAST2\
+ , Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en
+ -Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Proven
+ ce | STARTUP MAST1
+LOCATION;LANGUAGE=fr:AIX-Distanciel 02
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame SEYMAN\nPro
+ motions : Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRART MAST2\, 
+ Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Pr
+ ovence | INFO B3 IADATA\, Aix-en-Provence | STARTUP MAST1\nSalle : AIX-Dis
+ tanciel 02\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame SEY
+ MAN<br/>Promotions : Aix-en-Provence | DAMD MAST2\, Aix-en-Provence | DIRA
+ RT MAST2\, Aix-en-Provence | DMDATA MAST1\, Aix-en-Provence | INFO B3 DEV\
+ , Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provence | STARTUP MAST1<br/>S
+ alle : AIX-Distanciel 02<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240403T141446Z
+UID:Cours-9944-31-BORELLO_Benjamin-Index-Education
+DTSTART:20240329T123000Z
+DTEND:20240329T160000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame POURCHIER - Aix-en-Provence | ANI3D MA
+ ST2\, Aix-en-Provence | DIRART MAST2\, Aix-en-Provence | DXPI MAST2\, Aix-
+ en-Provence | GAMEP MAST2\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provenc
+ e | INFO B3 IADATA\, Aix-en-Provence | JVSGA MAST2
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame POURCHIER\n
+ Promotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | DIRART MAST
+ 2\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST2\, Aix-en-
+ Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix-en-Provenc
+ e | JVSGA MAST2\nSalle : AIX-Distanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame POU
+ RCHIER<br/>Promotions : Aix-en-Provence | ANI3D MAST2\, Aix-en-Provence | 
+ DIRART MAST2\, Aix-en-Provence | DXPI MAST2\, Aix-en-Provence | GAMEP MAST
+ 2\, Aix-en-Provence | INFO B3 DEV\, Aix-en-Provence | INFO B3 IADATA\, Aix
+ -en-Provence | JVSGA MAST2<br/>Salle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240301T080849Z
+UID:Cours-9975-19-BORELLO_Benjamin-Index-Education
+DTSTART:20240105T073000Z
+DTEND:20240105T110000Z
+SUMMARY;LANGUAGE=fr:Exploration de données - Madame BLOHORN - Aix-en-Proven
+ ce | INFO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 01
+DESCRIPTION;LANGUAGE=fr:Matière : Exploration de données\nIntervenant : Mad
+ ame BLOHORN\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Dis
+ tanciel 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Exploration de données<br/>Intervena
+ nt : Madame BLOHORN<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>S
+ alle : AIX-Distanciel 01<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083136Z
+UID:Cours-10625-28-BORELLO_Benjamin-Index-Education
+DTSTART:20240304T073000Z
+DTEND:20240304T110000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083136Z
+UID:Cours-10625-37-BORELLO_Benjamin-Index-Education
+DTSTART:20240506T063000Z
+DTEND:20240506T100000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-A6
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-A6\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-A6<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083136Z
+UID:Cours-10625-43-BORELLO_Benjamin-Index-Education
+DTSTART:20240617T063000Z
+DTEND:20240617T100000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T1
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083136Z
+UID:Cours-10625-47-BORELLO_Benjamin-Index-Education
+DTSTART:20240715T063000Z
+DTEND:20240715T100000Z
+SUMMARY;LANGUAGE=fr:Python avancé - Monsieur CAMPINI - Aix-en-Provence | IN
+ FO B3 IADATA
+LOCATION;LANGUAGE=fr:AIX-T4
+DESCRIPTION;LANGUAGE=fr:Matière : Python avancé\nIntervenant : Monsieur CAM
+ PINI\nPromotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-T4\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Python avancé<br/>Intervenant : Mons
+ ieur CAMPINI<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : 
+ AIX-T4<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+LAST-MODIFIED:20240628T083232Z
+UID:Cours-10626-46-BORELLO_Benjamin-Index-Education
+DTSTART:20240708T063000Z
+DTEND:20240708T100000Z
+SUMMARY;LANGUAGE=fr:Anglais - Madame POURCHIER - Aix-en-Provence | INFO B3 
+ IADATA
+LOCATION;LANGUAGE=fr:AIX-Distanciel 10
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais\nIntervenant : Madame POURCHIER\n
+ Promotion : Aix-en-Provence | INFO B3 IADATA\nSalle : AIX-Distanciel 10\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais<br/>Intervenant : Madame POU
+ RCHIER<br/>Promotion : Aix-en-Provence | INFO B3 IADATA<br/>Salle : AIX-Di
+ stanciel 10<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-1-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20231101
+DTEND;VALUE=DATE:20231102
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-2-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-3-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231226
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-4-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-6-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240402
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-7-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-9-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240508
+DTEND;VALUE=DATE:20240510
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-11-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240521
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-12-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240714
+DTEND;VALUE=DATE:20240715
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20240717T172308Z
+UID:Ferie-13-BORELLO_Benjamin-Index-Education
+DTSTART;VALUE=DATE:20240815
+DTEND;VALUE=DATE:20240816
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+END:VCALENDAR

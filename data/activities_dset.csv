@@ -1,0 +1,108 @@
+type,activity
+indoor,Lire un livre
+indoor,Regarder un film
+indoor,Cuisiner un plat délicieux
+indoor,Faire du yoga
+indoor,Faire un puzzle
+indoor,Peindre ou dessiner
+indoor,Jouer à un jeu de société
+indoor,Écouter de la musique
+indoor,Apprendre une nouvelle recette
+indoor,Faire de la méditation
+indoor,Écrire dans un journal
+indoor,Faire du tricot ou du crochet
+indoor,Apprendre une nouvelle langue
+indoor,Faire des exercices de fitness
+indoor,Jouer aux cartes
+indoor,Faire des mots croisés
+indoor,Regarder un documentaire
+indoor,Faire du scrapbooking
+indoor,Apprendre à jouer d'un instrument de musique
+indoor,Faire un marathon de séries télé
+indoor,Créer un album photo
+indoor,Faire du bricolage
+indoor,Apprendre la calligraphie
+indoor,Organiser ses photos
+indoor,Faire des jeux vidéo en réalité virtuelle
+indoor,Faire du dessin numérique
+indoor,Écouter un podcast
+indoor,Cuisiner des pâtisseries
+indoor,Faire de l'aérobic
+indoor,Apprendre à coder
+indoor,Faire des maquettes
+indoor,Participer à un cours en ligne
+indoor,Faire du jardinage intérieur
+indoor,Jouer à des jeux de rôles
+indoor,Apprendre la photographie
+indoor,Participer à un club de lecture en ligne
+indoor,Faire de la danse
+indoor,Apprendre à faire du maquillage artistique
+indoor,Créer un blog
+indoor,Apprendre à faire du jonglage
+
+outdoor,Aller se promener
+outdoor,Faire du vélo
+outdoor,Pique-niquer dans un parc
+outdoor,Faire de la randonnée
+outdoor,Faire du camping
+outdoor,Aller à la plage
+outdoor,Faire du jogging
+outdoor,Visiter un musée
+outdoor,Faire du jardinage
+outdoor,Faire de la natation
+outdoor,Faire du kayak
+outdoor,Faire de l'escalade
+outdoor,Participer à un cours de yoga en plein air
+outdoor,Aller à un concert
+outdoor,Visiter un zoo
+outdoor,Faire du canoë
+outdoor,Participer à un marché local
+outdoor,Observer les oiseaux
+outdoor,Aller pêcher
+outdoor,Faire du roller
+outdoor,Faire du ski
+outdoor,Faire du snowboard
+outdoor,Aller à la foire
+outdoor,Participer à un festival
+outdoor,Faire de l'équitation
+outdoor,Faire de la planche à voile
+outdoor,Faire du surf
+outdoor,Aller à un parc d'attractions
+outdoor,Faire du parapente
+outdoor,Aller à une fête foraine
+outdoor,Faire de la voile
+outdoor,Faire du cerf-volant
+outdoor,Aller à une randonnée guidée
+outdoor,Aller à un événement sportif
+outdoor,Faire du patin à glace
+outdoor,Aller à un marché aux puces
+outdoor,Faire une chasse au trésor
+outdoor,Aller à un spectacle en plein air
+outdoor,Aller au théâtre
+outdoor,Participer à une course de charité
+
+videogame,Jouer à Minecraft
+videogame,Jouer à Fortnite
+videogame,Jouer à Call of Duty
+videogame,Jouer à FIFA
+videogame,Jouer à Animal Crossing
+videogame,Jouer à The Legend of Zelda
+videogame,Jouer à Super Mario
+videogame,Jouer à League of Legends
+videogame,Jouer à Among Us
+videogame,Jouer à Apex Legends
+videogame,Jouer à The Sims
+videogame,Jouer à Grand Theft Auto
+videogame,Jouer à Overwatch
+videogame,Jouer à Rocket League
+videogame,Jouer à World of Warcraft
+videogame,Jouer à Hearthstone
+videogame,Jouer à Valorant
+videogame,Jouer à Pokémon
+videogame,Jouer à Red Dead Redemption
+videogame,Jouer à Battlefield
+videogame,Jouer à Assassin's Creed
+videogame,Jouer à Cyberpunk 2077
+videogame,Jouer à Resident Evil
+videogame,Jouer à Halo
+videogame,Jouer à Destiny
